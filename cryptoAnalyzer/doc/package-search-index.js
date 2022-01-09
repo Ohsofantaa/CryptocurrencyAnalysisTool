@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"cryptoAnalyzer.analysis"},{"l":"cryptoAnalyzer.gui"},{"l":"cryptoAnalyzer.mainEntrance"},{"l":"cryptoAnalyzer.render"},{"l":"cryptoAnalyzer.selection"}]

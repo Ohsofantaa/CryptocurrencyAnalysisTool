@@ -1,0 +1,459 @@
+commit 29972d029b39c1bb0d2b4668f09582b42b024dfa
+Merge: 0cdfc2e 060920b
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Fri Dec 3 23:09:57 2021 -0500
+
+    Merge branch 'master' into fixy
+
+commit 060920b37ff021e1a32583f7f38c4101c12e6793
+Merge: e9144c0 7d32e86
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Fri Dec 3 21:21:27 2021 -0500
+
+    test
+
+commit e9144c012c06adccfbda58565a95cd8803908b07
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Fri Dec 3 21:20:26 2021 -0500
+
+    1.0
+
+commit 7d32e86b5d3946837911eb1bdf9d95c672064bdf
+Merge: 2e48eea 0cdfc2e
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Fri Dec 3 21:18:15 2021 -0500
+
+    test
+
+commit 2e48eea74925d36e9977a1464795f569c9bf86d8
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Fri Dec 3 20:08:17 2021 -0500
+
+    5.0
+
+commit 69dbe545df32b7b03f876d10365d51b43c8459a0
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Fri Dec 3 20:01:04 2021 -0500
+
+    connect 5.0
+
+commit 0cdfc2ebed3531e144865023a5932417b3169c4b
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Fri Dec 3 19:53:57 2021 -0500
+
+    use factory method for algorithm analysis
+
+commit c900de6618233dd64ad8d4d8ae0b042d6f367fa8
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Fri Dec 3 01:36:59 2021 -0500
+
+    connect 4.0
+
+commit e4b36f85f9d70977b317b9bc648fcfe45537d8f4
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Fri Dec 3 00:26:59 2021 -0500
+
+    connect 3.0
+
+commit 6cfd7d09e9ce4dda71b90526eb8c0962c2ae580f
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Fri Dec 3 00:25:51 2021 -0500
+
+    update render writefile
+
+commit 9f329fe4cfbe24554369d37eb5051d270a1ea21a
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Fri Dec 3 00:09:52 2021 -0500
+
+    connect 2.0
+
+commit 04a427ab05a3fa870705cac02b373b657775b990
+Merge: bc7e82f 2467877
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Fri Dec 3 00:00:20 2021 -0500
+
+    Merge branch 'master' of https://repo.csd.uwo.ca/scm/compsci2212_f2021/group16
+
+commit bc7e82f85467a141ad3775f45d54e76290c660dd
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Thu Dec 2 23:59:42 2021 -0500
+
+    update render read/write
+
+commit 24678770fc61793689e31143ad7509c800037007
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Dec 2 23:53:48 2021 -0500
+
+    connect 3.0
+
+commit fefdb64d2beb15df7c469a71fc1d22ebf316b30f
+Merge: 6e2af0e 8b92cf8
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Dec 2 23:25:16 2021 -0500
+
+    removed merge conflicts
+
+commit 6e2af0e079a2669ee260991f6c33e250beffd1a4
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Dec 2 23:21:36 2021 -0500
+
+    connection 2.0
+
+commit 8b92cf8a842889a27c5f72ad5e4298358d63737b
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Thu Dec 2 23:18:22 2021 -0500
+
+    update read/write filepath
+
+commit f8a1c81c04eb4dce52a62415719857158395cbe0
+Merge: 22aa5b8 4d36755
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Thu Dec 2 23:17:59 2021 -0500
+
+    Merge branch 'master' of https://repo.csd.uwo.ca/scm/compsci2212_f2021/group16
+
+commit 22aa5b86694e0c85b74d4e4afc14b862fb080704
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Thu Dec 2 23:17:15 2021 -0500
+
+    update read/wirte filepath
+
+commit 4d36755a6de2a7824bea8a4202b1ff63dce3cd65
+Author: Ruyi Jin <rjin49@uwo.ca>
+Date:   Thu Dec 2 23:16:58 2021 -0500
+
+    Selection 1.0
+
+commit 3269e16697055f7ae3c53069a639463a3cd0a4d8
+Author: Ruyi Jin <rjin49@uwo.ca>
+Date:   Thu Dec 2 23:08:05 2021 -0500
+
+    Selection 1.0
+
+commit 0520d0fa7a20683787077a450ed0a876dd9dcd51
+Merge: 01f118d a10b6fd
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Dec 2 22:59:34 2021 -0500
+
+    connect selection and analyzer 1.0
+
+commit 01f118dba729eba8115a1ceea983c81e9c594a7b
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Dec 2 22:59:00 2021 -0500
+
+    connect selection and analyzer 1.0
+
+commit a10b6fd13848faf5403a9add86e8b3b863fbf1f3
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Thu Dec 2 22:41:54 2021 -0500
+
+    add read and write method in render
+
+commit 6070df9083cdc1d8371a970dcd005b74ed2e267e
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Dec 2 21:46:42 2021 -0500
+
+    reader
+
+commit 56cdf4e943ff470a979a10abd9e1136d0f426b22
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Dec 2 21:25:45 2021 -0500
+
+    render 4.0
+
+commit 1b8e2f2348d6a6db3088d3366f7ffb54b40ed537
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Thu Dec 2 20:50:05 2021 -0500
+
+    Use factory method design pattern for MainUI
+
+commit dff50ed2bde5f2544596cb1ef5185864936d2cd5
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Thu Dec 2 03:19:13 2021 -0500
+
+    create MainUIFacade based on RealMainUI
+
+commit 0608e329661c6ba1731d2eced60ccd0b4e165228
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Thu Dec 2 03:10:45 2021 -0500
+
+    modify loginUI
+
+commit b1fdeb5bad8b4c27fe00b8d906d0bce3020dd25b
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Thu Dec 2 03:07:23 2021 -0500
+
+    modify loginUI
+
+commit 07624c46cb791902c359081fc15083cec05f9c4c
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Dec 2 01:18:44 2021 -0500
+
+    UI functionality 1.0
+
+commit 21667a67fcfb1f917776bd6ee6b37c7d14fb8dfa
+Author: Ruyi Jin <rjin49@uwo.ca>
+Date:   Thu Dec 2 00:37:46 2021 -0500
+
+    Selection 1.0
+
+commit 308dd41f052334ec2ff7b33485681be72210c7bf
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Dec 2 00:05:59 2021 -0500
+
+    UI2.0
+
+commit 35bbd5442813c69d5287ef0d3d1ba49b5345aa88
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Wed Dec 1 23:51:40 2021 -0500
+
+    selection1.0
+
+commit ae8bd9699a9fa7fda413f9e8bcfea473c04c261f
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Wed Dec 1 22:43:34 2021 -0500
+
+    Selection1.0
+
+commit 0548422daf84a93b64c0cba98fe2de79e2cd7783
+Author: Luchang Liu <lliu553@uwo.ca>
+Date:   Wed Dec 1 21:52:06 2021 -0500
+
+    test
+
+commit 1fcf92ff913ab218c4676ec96e63c648cbc25d05
+Author: Luchang Liu <lliu553@uwo.ca>
+Date:   Wed Dec 1 21:50:28 2021 -0500
+
+    test
+
+commit 4028508ff26b879b54ac63f7bf49418d4c89ab6a
+Merge: e1ebca1 b9f6db2
+Author: Luchang Liu <lliu553@uwo.ca>
+Date:   Wed Dec 1 21:38:38 2021 -0500
+
+    test
+
+commit e1ebca1588726c0779a1fad6e89f19e407403274
+Author: Luchang Liu <lliu553@uwo.ca>
+Date:   Wed Dec 1 21:36:37 2021 -0500
+
+    test
+
+commit b9f6db297666948000c62606d73a363c745275de
+Author: Ruyi Jin <rjin49@uwo.ca>
+Date:   Wed Dec 1 19:26:47 2021 -0500
+
+    initial push by Agnes
+
+commit 3477a2ebb2a454d4369be2644b030f4bcbe9867e
+Author: Ruyi Jin <rjin49@uwo.ca>
+Date:   Wed Dec 1 19:24:41 2021 -0500
+
+    test by Agnes
+
+commit eac7c74a1dd2b912c07924b9024d4137ff7f6a79
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Wed Dec 1 02:32:17 2021 -0500
+
+    bar 1.0
+
+commit 12bc488db7432b3e9ce6ba0d5551627da3af5cbf
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Wed Dec 1 00:50:41 2021 -0500
+
+    liner render 1.0
+
+commit 3cd82e7876ee82884c782c8d176b5dc8cc289c4c
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Tue Nov 30 23:19:20 2021 -0500
+
+    table 2.1
+
+commit af55b633b6b4b9178de1d46ca88e6c8b1d545327
+Merge: 2d77b5e 6cfce64
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Tue Nov 30 22:49:52 2021 -0500
+
+    Merge branch 'master' of ssh://repo.csd.uwo.ca:7999/compsci2212_f2021/group16
+
+commit 2d77b5ea4dc49a594881dac2317505190867f49f
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Tue Nov 30 22:49:36 2021 -0500
+
+    table2.0
+
+commit 6cfce642c27c434b9fc1caca3568076164c7665e
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Tue Nov 30 22:32:56 2021 -0500
+
+    reverting to 0aa6a480c2979abb53d1690023d040b2531ba5ba
+
+commit e51bd883b5910e2ade645ba5273cb9d979413c52
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Tue Nov 30 21:58:53 2021 -0500
+
+    render table
+
+commit c1764f6b55e54b871d138ae2cbcdb3c396c7cc6e
+Author: Luchang Liu <lliu553@uwo.ca>
+Date:   Tue Nov 30 21:27:45 2021 -0500
+
+    Code By Luchang Liu
+
+commit 0aa6a480c2979abb53d1690023d040b2531ba5ba
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Tue Nov 30 20:30:33 2021 -0500
+
+    analysis 8
+
+commit d74eacfb74715e3aae105d282d922ea54cec1925
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Tue Nov 30 20:15:39 2021 -0500
+
+    analysis 6-7
+
+commit 9bdc7415204d661ad52f72a1d7590345c306c7dd
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Tue Nov 30 20:06:19 2021 -0500
+
+    analysis 4-5
+
+commit 91c874767477a7f1cab11424afac883026020708
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Sun Nov 28 22:09:26 2021 -0500
+
+    proxy design pattern
+
+commit baa6ff399175c6f89aec7c823a159fe0f709b906
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Sun Nov 28 21:08:43 2021 -0500
+
+    1.1
+
+commit 47ca8e415fc4cc0a1ad57a6b34deef585a6c11e0
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Sun Nov 28 20:50:29 2021 -0500
+
+    Add files to directory
+
+commit 377ebd97042e0b712df309db957c58df5a788f4a
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Sun Nov 28 20:48:12 2021 -0500
+
+    file organization
+
+commit 1cf83081eab0da2823d5b6995552406815aa2a6b
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Sun Nov 28 20:39:27 2021 -0500
+
+    jessie part
+
+commit eed735a118967f8e320bec2adad32ebc7d9cae76
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Sun Nov 28 01:46:59 2021 -0500
+
+    add actionPerforme to vlidate user crendentials
+
+commit 134f81de01f10b199b5ed006f0855bf4beeb2192
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Sun Nov 28 00:18:13 2021 -0500
+
+    add credentials json file for testing
+
+commit 4bab95f071edc01cb08554f87b343444630bb00f
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Sun Nov 28 00:16:05 2021 -0500
+
+    add a json file containing credentials for testing
+
+commit 70c94bc1ed126bdb0b113c7b91be6582b9af8a45
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Sun Nov 28 00:13:34 2021 -0500
+
+    Create parseJson class
+
+commit 5ca2f9e745631442aebb60480305795da0113755
+Author: Xiaoke Yu <xkyu815@gmail.com>
+Date:   Sat Nov 27 23:20:07 2021 -0500
+
+    Create a loginwindow UI
+
+commit b36423199f20eaa147772267a7c786082889ce44
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Mon Nov 22 23:45:44 2021 -0500
+
+    AnalysisInterface/ Strategy Design Pattern/ First three basic analysis type
+
+commit 4fd89b091d3778199dc68012cf4c7d91a37932e6
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Mon Nov 22 22:50:03 2021 -0500
+
+    test1.0.0
+
+commit 9950940a2beaee6bb9afb9bc86ad783748cc6e4b
+Merge: 95965fd c0eca35
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Mon Nov 22 22:36:34 2021 -0500
+
+    Merge branch 'master' of ssh://repo.csd.uwo.ca:7999/compsci2212_f2021/group16
+
+commit 95965fdc9306b8eba9513f7227f14b43e87dbaf0
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Mon Nov 22 22:33:46 2021 -0500
+
+    DataReader/ SingletonDesignPattern
+
+commit c0eca35e42019050183bb65f4ff6d07625f346c9
+Author: Luchang Liu <lliu553@uwo.ca>
+Date:   Sun Nov 21 20:44:32 2021 -0500
+
+    Test By Violet
+
+commit bb952bfcf4b7db579cc785439bc0a3e61480f283
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Sun Nov 21 20:01:22 2021 -0500
+
+    module sep
+
+commit 67ac0d6b4db45a1f4a2a6421f70bc07174257f1e
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Sun Nov 21 19:58:49 2021 -0500
+
+    module sep
+
+commit 32c557259617f0cc6a618b161132f51e91f79993
+Author: xkyu815 <xkyu815@gmail.com>
+Date:   Sun Nov 21 19:52:01 2021 -0500
+
+    JessieTEST
+
+commit 01eb047e8b7cc301eb8bacaefe85d1e4141bfdb1
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Sat Nov 20 23:52:23 2021 -0500
+
+    cryptocurrency 1.0
+
+commit b44e4e4ccd5c0b762430a0548af8ddd8c6f276a8
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Sat Nov 20 23:51:29 2021 -0500
+
+    cryptocurrency buzz1.0
+
+commit cd2ac44a9bfe2923b2f2aa4ecd8260a4035ec7dd
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Sat Nov 20 23:19:01 2021 -0500
+
+    design pattern design 1.0
+
+commit fc5efb0c3fb84e0b32b74fe97340e9c5dc500c40
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Sat Nov 20 20:01:11 2021 -0500
+
+    test
+
+commit a44a06c3e02959a49d5ce887030eddc943f2e4ea
+Author: Yanwen Wang <ywan3625@uwo.ca>
+Date:   Thu Oct 28 23:45:15 2021 -0400
+
+    test
